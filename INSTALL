@@ -1,0 +1,9 @@
+Building SatoshiONE
+
+See doc/readme-qt.rst for instructions on building SatoshiONE QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SatoshiONE.
+
+See doc/build-*.txt for instructions on building satoshioned,
+the intended-for-services, no-graphical-interface, reference
+implementation of SatoshiONE.
